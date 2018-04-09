@@ -1,0 +1,15 @@
+.picture_post {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	height: 100%;
+}
+
+.picture_post img {
+	margin-top: 50px;
+	max-width: 300px;
+}
